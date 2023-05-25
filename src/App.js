@@ -1,11 +1,11 @@
 import "./App.css";
 import Navbar from "./Components/Navbar";
-import React, { Component } from "react";
+import React from "react";
 import News from "./Components/News";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 
-export default class App extends Component {
-  render() {
+ const App = ()=> {
+  
     return (
       <div>
         <Router>
@@ -60,5 +60,7 @@ export default class App extends Component {
         </Router>
       </div>
     );
-  }
+  
 }
+
+export default App;
