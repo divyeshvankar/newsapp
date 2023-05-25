@@ -26,7 +26,7 @@ export default class News extends Component {
 
 }
 
-  handlePrev=async()=>{
+  handlePrevClick=async()=>{
     let url=`https://newsapi.org/v2/top-headlines?country=in&apiKey=52b88c10e9274344a76eec0a860ce659&page=${this.state.page-1}&pageSize=20`;
     let data=await fetch(url);
    //  console.log("Data:")
@@ -44,7 +44,7 @@ export default class News extends Component {
      
      
   }
-  handleNext=async ()=>{
+  handleNextClick=async ()=>{
     if(this.state.page>Math.ceil( this.state.totalResult/20)){
 
     }
@@ -83,8 +83,8 @@ export default class News extends Component {
               
         </div>
         <div className="container d-flex justify-content-between my-1">
-        <button disabled={this.state.page<=1} type="button" className="btn btn-dark " onClick={this.handlePrev}>&laquo; Previous</button>
-        <button type="button" className="btn btn-dark" onClick={this.handleNext}>Next &raquo;</button>
+        <button disabled={this.state.page<=1} type="button" className="btn btn-dark " onClick={this.handlePrevClick}>&laquo; Previous</button>
+        <button type="button" className="btn btn-dark" onClick={this.handleNextClick}>Next &raquo;</button>
         </div>
        
         
