@@ -9,21 +9,65 @@ export default class News extends Component {
     this.state = {
 
       articles: [],
-      loading:true
+      loading:true,
+      page:1
     }
 }
  async componentDidMount(){
-     let url="https://newsapi.org/v2/top-headlines?country=in&apiKey=52b88c10e9274344a76eec0a860ce659";
+     let url="https://newsapi.org/v2/top-headlines?country=in&apiKey=52b88c10e9274344a76eec0a860ce659&page=1&pageSize=20";
      let data=await fetch(url);
     //  console.log("Data:")
     //  console.log(data);
      let parsedData =await data.json()
-     console.log("Parsed Data:")
-     console.log(parsedData);
+    //  console.log("Parsed Data:")
+    //  console.log(parsedData);
      
-     this.setState({articles:parsedData.articles})
+     this.setState({articles:parsedData.articles,totalResult:parsedData.totalResult})
 
 }
+
+  handlePrev=async()=>{
+    let url=`https://newsapi.org/v2/top-headlines?country=in&apiKey=52b88c10e9274344a76eec0a860ce659&page=${this.state.page-1}&pageSize=20`;
+    let data=await fetch(url);
+   //  console.log("Data:")
+   //  console.log(data);
+    let parsedData =await data.json()
+   //  console.log("Parsed Data:")
+   //  console.log(parsedData);
+    
+    this.setState({articles:parsedData.articles})
+  //  console.log("Prev");
+   this.setState={
+     page:this.state.page-1,
+     articles:parsedData.articles
+   }
+     
+     
+  }
+  handleNext=async ()=>{
+    if(this.state.page>Math.ceil( this.state.totalResult/20)){
+
+    }
+    else{
+
+      
+      let url=`https://newsapi.org/v2/top-headlines?country=us&apiKey=52b88c10e9274344a76eec0a860ce659&page=${this.state.page+1}&pageSize=20`;
+      let data=await fetch(url);
+      //  console.log("Data:")
+      //  console.log(data);
+      let parsedData =await data.json()
+      //  console.log("Parsed Data:")
+      //  console.log(parsedData);
+      
+     
+      // console.log("Next");
+      this.setState({
+        page:this.state.page+1,
+        articles:parsedData.articles
+      }
+      )
+    }
+  }
 
   render() {
     return (
@@ -37,6 +81,10 @@ export default class News extends Component {
         })}
             
               
+        </div>
+        <div className="container d-flex justify-content-between my-1">
+        <button disabled={this.state.page<=1} type="button" className="btn btn-dark " onClick={this.handlePrev}>&laquo; Previous</button>
+        <button type="button" className="btn btn-dark" onClick={this.handleNext}>Next &raquo;</button>
         </div>
        
         
