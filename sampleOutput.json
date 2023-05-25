@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 25,
+    "articles": [
+        {
+            "source": {
+                "id": "news24",
+                "name": "News24"
+            },
+            "author": "Lynn Butler",
+            "title": "How Proteas fared at the IPL: South Africans blow hot and cold as Faf outshines, Rabada slumps",
+            "description": "The round-robin stages of the Indian Premier League have come and gone and among the South African contingent there have been some standout performances and some not-so showstopping displays.",
+            "url": "https://www.news24.com/sport/cricket/ipl/how-proteas-fared-at-the-ipl-south-africans-blow-hot-and-cold-as-faf-outshines-rabada-slumps-20230523",
+            "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/2644/54351d26fad743699f4c1a0c85871c79.jpg",
+            "publishedAt": "2023-05-23T16:10:39+00:00",
+            "content": "<ul><li>Former Proteas captain Faf du Plessis led the South African contingent during the ongoing Indian Premier League.</li><li>There were 16 South Africans in India for the 16th edition of the IPL.… [+7314 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-in",
+                "name": "Google News (India)"
+            },
+            "author": "Reuters India",
+            "title": "From mangoes to luxury watches, Indians look to offload 2000-rupee notes - Reuters India",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2luZGlhL21hbmdvZXMtbHV4dXJ5LXdhdGNoZXMtaW5kaWFucy1sb29rLW9mZmxvYWQtMjAwMC1ydXBlZS1ub3Rlcy0yMDIzLTA1LTIzL9IBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-05-23T14:47:00+00:00",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news-in",
+                "name": "Google News (India)"
+            },
+            "author": "The Indian Express",
+            "title": "UPSC Civil Services Exam Result 2022 Live: UPSC topper Ishita Kishore is a DU student - The Indian Express",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMikAFodHRwczovL2luZGlhbmV4cHJlc3MuY29tL2FydGljbGUvam9icy91cHNjLWNpdmlsLXNlcnZpY2VzLWZpbmFsLXJlc3VsdC0yMDIyLWxpdmUtY3NlLXJlc3VsdC1kZWNsYXJlZC1hdC11cHNjLWdvdi1pbi10b3BwZXJzLW1lcml0LWxpc3QtODYyMDAxOC_SAZUBaHR0cHM6Ly9pbmRpYW5leHByZXNzLmNvbS9hcnRpY2xlL2pvYnMvdXBzYy1jaXZpbC1zZXJ2aWNlcy1maW5hbC1yZXN1bHQtMjAyMi1saXZlLWNzZS1yZXN1bHQtZGVjbGFyZWQtYXQtdXBzYy1nb3YtaW4tdG9wcGVycy1tZXJpdC1saXN0LTg2MjAwMTgvbGl0ZS8?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-05-23T14:36:03+00:00",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": null,
+            "title": "Actor Adam Driver named honorary starter for Indianapolis 500 - ESPN",
+            "description": "Actor Adam Driver, a two-time Academy Award nominee, will serve as the honorary starter for the 107th running of the Indianapolis 500 on Sunday.",
+            "url": "https://www.espn.com/racing/story/_/id/37713180/actor-adam-driver-named-honorary-starter-indianapolis-500",
+            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0716%2Fr1037087_905x509_16%2D9.jpg",
+            "publishedAt": "2023-05-23T14:28:00Z",
+            "content": "May 23, 2023, 10:28 AM ET\r\nINDIANAPOLIS -- Two-time Academy Award nominee Adam Driver, who will soon be starring as Enzo Ferrari in a biopic of the Italian automobile magnate, will serve as the honor… [+2153 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-in",
+                "name": "Google News (India)"
+            },
+            "author": "Hindustan Times",
+            "title": "In Australia, PM Modi's tribute to Shane Warne: ‘Millions of Indians mourned’ - Hindustan Times",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiiwFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vaW5kaWEtbmV3cy9hdXN0cmFsaWEtbmFyZW5kcmEtbW9kaS1zaGFuZS13YXJuZS1zeWRuZXktcXVkb3MtYmFuay1hcmVuYS1hbnRob255LWFsYmFuZXNlLTEwMTY4NDg0ODUyNTA3MS5odG1s0gGPAWh0dHBzOi8vd3d3LmhpbmR1c3RhbnRpbWVzLmNvbS9pbmRpYS1uZXdzL2F1c3RyYWxpYS1uYXJlbmRyYS1tb2RpLXNoYW5lLXdhcm5lLXN5ZG5leS1xdWRvcy1iYW5rLWFyZW5hLWFudGhvbnktYWxiYW5lc2UtMTAxNjg0ODQ4NTI1MDcxLWFtcC5odG1s?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-05-23T13:52:57+00:00",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news-in",
+                "name": "Google News (India)"
+            },
+            "author": "India Today",
+            "title": "Won't allow saffronisation of police dept: DK Shivakumar’s stern warning to officials - India Today",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy5pbmRpYXRvZGF5LmluL2luZGlhL3N0b3J5L3dpbGwtbm90LWFsbG93LXNhZmZyb25pc2F0aW9uLW9mLXBvbGljZS1kZXB0LWRrLXNoaXZha3VtYXJzLXN0ZXJuLXdhcm5pbmctdG8tb2ZmaWNpYWxzLTIzODMyODctMjAyMy0wNS0yM9IBkwFodHRwczovL3d3dy5pbmRpYXRvZGF5LmluL2FtcC9pbmRpYS9zdG9yeS93aWxsLW5vdC1hbGxvdy1zYWZmcm9uaXNhdGlvbi1vZi1wb2xpY2UtZGVwdC1kay1zaGl2YWt1bWFycy1zdGVybi13YXJuaW5nLXRvLW9mZmljaWFscy0yMzgzMjg3LTIwMjMtMDUtMjM?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-05-23T13:52:10+00:00",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news-in",
+                "name": "Google News (India)"
+            },
+            "author": "The Indian Express",
+            "title": "Mamata Banerjee lends support to Arvind Kejriwal: ‘TMC will support AAP in fight against Central ordinance’ - The Indian Express",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMihQFodHRwczovL2luZGlhbmV4cHJlc3MuY29tL2FydGljbGUvaW5kaWEvYWZ0ZXItbWVldC13aXRoLWtlanJpd2FsLW1hbWF0YS1jYWxscy1vbi1vcHBvc2l0aW9uLXRvLXVuaXRlLWFnYWluc3QtZGVsaGktb3JkaW5hbmNlLTg2MjUwNzQv0gGKAWh0dHBzOi8vaW5kaWFuZXhwcmVzcy5jb20vYXJ0aWNsZS9pbmRpYS9hZnRlci1tZWV0LXdpdGgta2Vqcml3YWwtbWFtYXRhLWNhbGxzLW9uLW9wcG9zaXRpb24tdG8tdW5pdGUtYWdhaW5zdC1kZWxoaS1vcmRpbmFuY2UtODYyNTA3NC9saXRlLw?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-05-23T12:55:48+00:00",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news-in",
+                "name": "Google News (India)"
+            },
+            "author": "UCA News",
+            "title": "Christians face conversion threat in riot-hit Indian state - UCA News",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LnVjYW5ld3MuY29tL25ld3MvY2hyaXN0aWFucy1mYWNlLWNvbnZlcnNpb24tdGhyZWF0LWluLXJpb3QtaGl0LWluZGlhbi1zdGF0ZS8xMDE0MDHSAV1odHRwczovL3d3dy51Y2FuZXdzLmNvbS9hbXAvY2hyaXN0aWFucy1mYWNlLWNvbnZlcnNpb24tdGhyZWF0LWluLXJpb3QtaGl0LWluZGlhbi1zdGF0ZS8xMDE0MDE?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-05-23T11:39:00+00:00",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news-in",
+                "name": "Google News (India)"
+            },
+            "author": "The Hindu",
+            "title": "J&K part of India, Pakistan has no right to talk about it, says Union Minister - The Hindu",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy50aGVoaW5kdS5jb20vbmV3cy9uYXRpb25hbC9qay1wYXJ0LW9mLWluZGlhLXBha2lzdGFuLWhhcy1uby1yaWdodC10by10YWxrLWFib3V0LWl0LXNheXMtdW5pb24tbWluaXN0ZXItcmVkZHkvYXJ0aWNsZTY2ODg0NDExLmVjZdIBkQFodHRwczovL3d3dy50aGVoaW5kdS5jb20vbmV3cy9uYXRpb25hbC9qay1wYXJ0LW9mLWluZGlhLXBha2lzdGFuLWhhcy1uby1yaWdodC10by10YWxrLWFib3V0LWl0LXNheXMtdW5pb24tbWluaXN0ZXItcmVkZHkvYXJ0aWNsZTY2ODg0NDExLmVjZS9hbXAv?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-05-23T11:13:00+00:00",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news-in",
+                "name": "Google News (India)"
+            },
+            "author": "India Today",
+            "title": "Backing Kejriwal is going against wisdom of Nehru, Ambedkar: Ajay Maken on ordinance row - India Today",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy5pbmRpYXRvZGF5LmluL2luZGlhL3N0b3J5L2JhY2tpbmcta2Vqcml3YWwtaXMtZ29pbmctYWdhaW5zdC13aXNkb20tb2YtbmVocnUtYW1iZWRrYXItYWpheS1tYWtlbi1vbi1vcmRpbmFuY2Utcm93LTIzODMxNDAtMjAyMy0wNS0yM9IBkwFodHRwczovL3d3dy5pbmRpYXRvZGF5LmluL2FtcC9pbmRpYS9zdG9yeS9iYWNraW5nLWtlanJpd2FsLWlzLWdvaW5nLWFnYWluc3Qtd2lzZG9tLW9mLW5laHJ1LWFtYmVka2FyLWFqYXktbWFrZW4tb24tb3JkaW5hbmNlLXJvdy0yMzgzMTQwLTIwMjMtMDUtMjM?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-05-23T10:08:22+00:00",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "australian-financial-review",
+                "name": "Australian Financial Review"
+            },
+            "author": "Andrew Tillett",
+            "title": "Narendra Modi given rock star welcome in Sydney",
+            "description": "Indian Prime Minister Narendra Modi was given a rapturous reception on Tuesday night by 20,000 members of the Indian diaspora at a stadium in western Sydney, which usually hosts rock stars and sporting spectacles.",
+            "url": "http://www.afr.com/politics/federal/namaste-australia-modi-mania-hits-sydney-20230523-p5dagd",
+            "urlToImage": "https://static.ffx.io/images/$zoom_0.6139%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_1241%2C$y_662/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/b76b22b0f28bc5cd4d05d07e4a39de8e04bbb1dc",
+            "publishedAt": "2023-05-23T09:18:26Z",
+            "content": "Indians gather to celebrate the imminent arrival of the Indian PM . Wolter Peeters\r\nDraped in an Indian scarf, Davinder Sharma had driven up from Melbourne with friends to see Mr Modi.\r\nWherever Modi… [+4515 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-au",
+                "name": "Google News (Australia)"
+            },
+            "author": "ABC News",
+            "title": "Indian Prime Minister Narendra Modi gets rockstar welcome as he addresses 20,000 at Sydney rally - ABC News",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmFiYy5uZXQuYXUvbmV3cy8yMDIzLTA1LTIzL25hcmVuZHJhLW1vZGktbWVldHMtZ3V5LXNlYmFzdGlhbi1haGVhZC1vZi1yYWxseS1pbi1zeWRuZXkvMTAyMzgyMDQ00gEoaHR0cHM6Ly9hbXAuYWJjLm5ldC5hdS9hcnRpY2xlLzEwMjM4MjA0NA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-05-23T06:28:03+00:00",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news-in",
+                "name": "Google News (India)"
+            },
+            "author": "The Indian Express",
+            "title": "‘Withdraw your comment about my age’: Sharad Pawar quips when queried on PM aspiration - The Indian Express",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vaW5kaWFuZXhwcmVzcy5jb20vYXJ0aWNsZS9jaXRpZXMvcHVuZS9zaGFyYWQtcGF3YXItcG0tYXNwaXJhdGlvbi1hZ2UtY29tbWVudC04NjI0MTE3L9IBYmh0dHBzOi8vaW5kaWFuZXhwcmVzcy5jb20vYXJ0aWNsZS9jaXRpZXMvcHVuZS9zaGFyYWQtcGF3YXItcG0tYXNwaXJhdGlvbi1hZ2UtY29tbWVudC04NjI0MTE3L2xpdGUv?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-05-23T05:46:27+00:00",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Astha Rajvanshi / Mumbai",
+            "title": "Deepika Padukone Is Bringing the World to Bollywood",
+            "description": "Deepika Padukone, India’s most popular actress, has a vision for what it means to be a truly global superstar.",
+            "url": "http://time.com/6278237/deepika-padukone-bollywood-india-profile/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2023/05/deepika-padukone-1-5x4-1.jpg?quality=85&crop=0px%2C663px%2C1920px%2C1006px&resize=1200%2C628&strip",
+            "publishedAt": "2023-05-11T01:00:52Z",
+            "content": "Deepika Padukone never set out to take India to the world. She wanted the world to come to India. As the most popular actress in the world’s most populous country, she’s often asked if she’s going to… [+16478 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Emma Hinchliffe, Paige McGlauflin",
+            "title": "Why a former SoftBank partner is tackling mid-career drop-off for working mothers",
+            "description": "Former SoftBank partner and Facebook India director Kirthiga Reddy is the cofounder of Laddrr, a resource hub for working mothers aiming to prevent mid-career drop-off.",
+            "url": "https://fortune.com/2022/06/01/former-softbank-partner-tackling-mid-career-drop-off-for-working-mothers/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2022/05/Kirthiga1.jpg?resize=1200,600",
+            "publishedAt": "2022-06-01T13:22:34Z",
+            "content": "Skip to Content"
+        },
+        {
+            "source": {
+                "id": "the-hindu",
+                "name": "The Hindu"
+            },
+            "author": "Ananth Krishnan",
+            "title": "Dalai Lama’s close aides targeted on Pegasus spyware list",
+            "description": "‘Analysis indicates that the Indian govt. was selecting the potential targets’",
+            "url": "https://www.thehindu.com/news/international/dalai-lamas-close-aides-targeted-on-pegasus-spyware-list/article35474285.ece",
+            "urlToImage": "https://www.thehindu.com/news/international/dvshb0/article35474284.ece/ALTERNATES/LANDSCAPE_615/thjc-DalaiLama",
+            "publishedAt": "2021-07-22T15:47:01Z",
+            "content": "Several of the top India-based aides to the Tibetan spiritual leader, the Dalai Lama, figure on the list of potential targets for spying using the Pegasus spyware, according to a report on Thursday. … [+2399 chars]"
+        },
+        {
+            "source": {
+                "id": "rte",
+                "name": "RTE"
+            },
+            "author": "RTÉ News",
+            "title": "UK continues with reopening plan despite concerns",
+            "description": "British ministers are pushing on with a major easing of restrictions on Monday despite concerns over the Indian variant of coronavirus, as they were criticised for allowing the strain's import.",
+            "url": "https://www.rte.ie/news/uk/2021/0515/1221764-uk-indian-variant/",
+            "urlToImage": "https://img.rasset.ie/0016cb40-1600.jpg",
+            "publishedAt": "2021-05-15T09:33:48Z",
+            "content": "British ministers are pushing on with a major easing of restrictions on Monday despite concerns over the Indian variant of coronavirus, as they were criticised for allowing the strain's import.\r\nPrim… [+5066 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Rajat Pandit",
+            "title": "Army explores procurement of 350 light tanks for mountainous terrain after border standoff with China",
+            "description": "India News:  The Army is now exploring the possibility of procuring 350 light tanks, which can also be transported by air, to augment its firepower in high-altitu",
+            "url": "http://timesofindia.indiatimes.com/india/army-explores-procurement-of-350-light-tanks-for-mountainous-terrain-after-border-standoff-with-china/articleshow/82217825.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-82217908,width-1070,height-580,imgsize-264639,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2021-04-23T08:29:00Z",
+            "content": "Army explores procurement of 350 light tanks for mountainous terrain after border standoff with China\r\n<ul><li>News</li>\r\n<li>India News</li>\r\n<li>Army explores procurement of 350 light tanks for mou… [+58 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Times Of India",
+            "title": "PBKS vs MI Live Score, IPL 2021: Mumbai Indians seek consistency; Punjab Kings eye return to winning ways",
+            "description": "IPL Live Score: Mumbai Indians seek consistency; Punjab Kings eye return to winning ways. Stay with TOI to get IPL live score, playing 11, scorecard, highlights and ball by ball score updates of the 17th IPL match between Punjab Kings and Mumbai Indians.",
+            "url": "http://timesofindia.indiatimes.com/sports/cricket/ipl/live-blog/punjab-kings-vs-mumbai-indians-pbks-vs-mi-live-score-ipl-2021-17th-match-chennai/liveblog/82214950.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-82214950,width-1070,height-580,imgsize-157009,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2021-04-23T05:44:49Z",
+            "content": "Ravi Bishnoi return on the cards?\r\nDeepak Hooda showed what he is capable of, but greater consistency would be needed from him if the team has to prosper. They bet on Australian pace imports Jhye Ric… [+3131 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "PTI",
+            "title": "Zydus Cadila gets DCGI nod for hepatitis drug for Covid-19 treatment",
+            "description": "India News: Drug firm Zydus Cadila on Friday said it has received restricted emergency use approval from the Indian drug regulator for the use of Pegylated Interf",
+            "url": "http://timesofindia.indiatimes.com/india/zydus-cadila-gets-dcgi-nod-for-hepatitis-drug-for-covid-19-treatment/articleshow/82214909.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-82214921,width-1070,height-580,imgsize-98052,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2021-04-23T05:43:00Z",
+            "content": null
+        }
+    ]
+}
